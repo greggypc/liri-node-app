@@ -53,31 +53,52 @@ count: 20
 
 //return track info from Spotify
 var getTrackFromUser = function() {
-  if (trackName === "") {
-    trackName = "The Sign Ace of Base";
-    trackName = trackName.trim();
-    searchSpotify();
-  }
-  for (var i = 3; i < process.argv.length; i++){
-    trackName += " " + process.argv[i];
-  }
-  trackName = trackName.trim();
-  searchSpotify();
+   if (!process.argv[3]) {
+     noTrackProvided();
+   } else 
+     trackProvided();
 }; //end function getSpotify
+
+var noTrackProvided = function() {
+     trackName = "The Sign Ace of Base";
+     searchSpotify();
+   
+}; //end function noTrackProvided
+
+var trackProvided = function() {
+    for (var i = 3; i < process.argv.length; i++){
+    trackName += " " + process.argv[i];
+    }
+  searchSpotify();
+}; //end function noTrackProvided
 
 var searchSpotify = function() {
   //console.log(trackName + "from search spotify");
-  spotify.search({ type: 'track', query: trackName })
-  .then(function(response) {
-    console.log("\nLet's get some info on the track you requested:\n");
-    //console.log("Track name: " + response.tracks.items[0].name);
-    console.log("Artist: " + response.tracks.items[0].artists[0].name);
-    console.log("Album Name: " + response.tracks.items[0].album.name);
-    console.log("Listen to a preview: " + response.tracks.items[0].preview_url);
-  })
-  .catch(function(err) {
-    console.log(err);
-  });
+spotify.search({ type: 'track', query: trackName }, function(err, data) {
+  if (err) {
+    return console.log('Error occurred: ' + err);
+  }
+    console.log("\n===TRACK INFO===\n");
+    console.log("Track name: " + data.tracks.items[0].name);
+    console.log("Artist: " + data.tracks.items[0].artists[0].name);
+    console.log("Album Name: " + data.tracks.items[0].album.name);
+    console.log("Listen to a preview: " + data.tracks.items[0].preview_url);
+    return;
+});
+
+
+
+  // spotify.search({ type: 'track', query: trackName })
+  // .then(function(response) {
+  //   console.log("\nLet's get some info on the track you requested:\n");
+  //   //console.log("Track name: " + response.tracks.items[0].name);
+  //   console.log("Artist: " + response.tracks.items[0].artists[0].name);
+  //   console.log("Album Name: " + response.tracks.items[0].album.name);
+  //   console.log("Listen to a preview: " + response.tracks.items[0].preview_url);
+  // })
+  // .catch(function(err) {
+  //   console.log(err);
+  // });
 
 }; //end function searchSpotify
 
