@@ -29,7 +29,7 @@ var command = process.argv[2];
 switch (command) {
   case "my-tweets":
     console.log("user command: my-tweets");
-    tweets();
+    getTweets();
     break;
   case "spotify-this-song":
     console.log("user command: spotify");
@@ -46,40 +46,49 @@ switch (command) {
     console.log("not an option");
 }
 
-//return latest 20 tweets from user input twitter handle
-function tweets() {
-	inquirerTweets();
-	console.log(name);
-    client.get("https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=TheDailyShow&count=20", function(error, response, tweet) {
-        console.log('inside of function tweet');
+//return latest 20 tweets
+function getTweets() {
+
+var params = {
+screen_name: "greggypc",
+count: 20
+};
+
+    client.get('statuses/user_timeline', params, function(error, tweets, response) {
         // If the request was successful...
         if (!error && response.statusCode === 200) {
-            // Log the last 20 tweets
-            console.log(JSON.parse(tweet).text);
-            console.log(tweet);
-        }
+           for (var singleTweet of tweets) {
+             console.log("==============TWEET==============\n");
+             console.log(singleTweet.text + "\n=== POSTED " + singleTweet.created_at + " ===\n");
+    }        
+        }  else {
+      console.log(error);
+    }
     });
-}
+};  //end function tweets
 
-function inquirerTweets(handle) {
-  inquirer
-  .prompt([
-    // Here we create a basic text prompt.
-    {
-      type: "input",
-      message: "Which twitter handle would you like to see?",
-      name: "handle"
-    }
-   ])
 
-  .then(function(inquirerResponse) {
-    // return twitter handle
-    if (err){console.log(err);} 
-    else if (inquirerResponse.name != null) {
-    	console.log(inquirerResponse.name);
-      return inquirerResponse.name;
-    }
-  });
+
+
+// function inquirerTweets(handle) {
+//   inquirer
+//   .prompt([
+//     // Here we create a basic text prompt.
+//     {
+//       type: "input",
+//       message: "Which twitter handle would you like to see?",
+//       name: "handle"
+//     }
+//    ])
+
+//   .then(function(inquirerResponse) {
+//     // return twitter handle
+//     if (err){console.log(err);} 
+//     else if (inquirerResponse.handle != null) {
+//     	console.log(inquirerResponse.handle);
+//       return inquirerResponse.handle;
+//     }
+//   });
   
-}
+// }
 
