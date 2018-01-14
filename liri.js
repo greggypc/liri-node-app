@@ -11,6 +11,9 @@ var request = require("request");
 //require inquirer
 var inquirer = require("inquirer");
 
+ //load the HTTP library
+var http = require("http");
+
 //require file system
 var fs = require('fs');
 
@@ -24,31 +27,12 @@ var client = new Twitter(keys.twitter);
 
 //create variables that will take commands from user
 var command = process.argv[2];
-
-//accept commands from user and fire appropriate function
-switch (command) {
-  case "my-tweets":
-    console.log("user command: my-tweets");
-    getTweets();
-    break;
-  case "spotify-this-song":
-    console.log("user command: spotify");
-    spotify();
-    break;
-  case "movie-this":
-    console.log("user command: movie");
-    movie();
-    break;
-  case "do-what-it-says":
-    console.log("user command: do something");
-    doSomething();
-    default:
-    console.log("not an option");
-}
+var trackName = "";
 
 //return latest 20 tweets
-function getTweets() {
+var getTweets = function() {
 
+// set parameters for twitter GET
 var params = {
 screen_name: "greggypc",
 count: 20
@@ -60,14 +44,66 @@ count: 20
            for (var singleTweet of tweets) {
              console.log("==============TWEET==============\n");
              console.log(singleTweet.text + "\n=== POSTED " + singleTweet.created_at + " ===\n");
-    }        
-        }  else {
+            }        
+        } else {
       console.log(error);
     }
     });
 };  //end function tweets
 
+//return track info from Spotify
+var getTrackFromUser = function() {
+  if (trackName === "") {
+    trackName = "The Sign Ace of Base";
+    trackName = trackName.trim();
+    searchSpotify();
+  }
+  for (var i = 3; i < process.argv.length; i++){
+    trackName += " " + process.argv[i];
+  }
+  trackName = trackName.trim();
+  searchSpotify();
+}; //end function getSpotify
 
+var searchSpotify = function() {
+  //console.log(trackName + "from search spotify");
+  spotify.search({ type: 'track', query: trackName })
+  .then(function(response) {
+    console.log("\nLet's get some info on the track you requested:\n");
+    //console.log("Track name: " + response.tracks.items[0].name);
+    console.log("Artist: " + response.tracks.items[0].artists[0].name);
+    console.log("Album Name: " + response.tracks.items[0].album.name);
+    console.log("Listen to a preview: " + response.tracks.items[0].preview_url);
+  })
+  .catch(function(err) {
+    console.log(err);
+  });
+
+}; //end function searchSpotify
+
+
+
+
+//accept commands from user and fire appropriate function
+switch (command) {
+  case "my-tweets":
+    console.log("user command: my-tweets");
+    getTweets();
+    break;
+  case "spotify-this-song":
+    console.log("user command: spotify");
+    getTrackFromUser();
+    break;
+  case "movie-this":
+    console.log("user command: movie");
+    movie();
+    break;
+  case "do-what-it-says":
+    console.log("user command: do something");
+    doSomething();
+    default:
+    console.log("not an option");
+}
 
 
 // function inquirerTweets(handle) {
