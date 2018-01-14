@@ -1,4 +1,6 @@
 
+
+//==================================REQUIRES & VARIABLES=========================================
 //read and set any environment variables with the dotenv package
 require("dotenv").config();
 
@@ -28,7 +30,10 @@ var client = new Twitter(keys.twitter);
 //create variables that will take commands from user
 var command = process.argv[2];
 var trackName = "";
+var movieName = "";
 
+
+//==================================TWITTER=========================================
 //return latest 20 tweets
 var getTweets = function() {
 
@@ -51,6 +56,7 @@ count: 20
     });
 };  //end function tweets
 
+//==================================SPOTIFY=========================================
 //return track info from Spotify
 var getTrackFromUser = function() {
    if (!process.argv[3]) {
@@ -70,7 +76,7 @@ var trackProvided = function() {
     trackName += " " + process.argv[i];
     }
   searchSpotify();
-}; //end function noTrackProvided
+}; //end function trackProvided
 
 var searchSpotify = function() {
   //console.log(trackName + "from search spotify");
@@ -78,32 +84,68 @@ spotify.search({ type: 'track', query: trackName }, function(err, data) {
   if (err) {
     return console.log('Error occurred: ' + err);
   }
-    console.log("\n===TRACK INFO===\n");
+    console.log("\n==============TRACK INFO==============\n");
     console.log("Track name: " + data.tracks.items[0].name);
     console.log("Artist: " + data.tracks.items[0].artists[0].name);
     console.log("Album Name: " + data.tracks.items[0].album.name);
     console.log("Listen to a preview: " + data.tracks.items[0].preview_url);
     return;
+}); 
+}; //end function noTrackProvided
+
+//==================================OMDB=========================================
+
+var getMovieFromUser = function() {
+  if (!process.argv[3]) {
+     noMovieProvided();
+   } else 
+     movieProvided();
+};
+
+var noMovieProvided = function() {
+     movieName = "Mr. Nobody";
+     searchOMDB();
+}; //end function noTrackProvided
+
+var movieProvided = function() {
+    for (var i = 3; i < process.argv.length; i++){
+    trackName += " " + process.argv[i];
+    }
+  searchOMDB();
+}; //end function trackProvided
+
+
+var searchOMDB = function() {
+  // Grab, assemble and store movie name
+  for (var i = 3; i < process.argv.length; i++){
+  movieName += " " + process.argv[i];
+}
+//console.log(movieName.trim());
+
+// Then run a request to the OMDB API with the movie specified
+var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
+
+request(queryUrl, function(error, response, body) {
+
+  // If the request is successful (i.e. if the response status code is 200)
+  if (!error && response.statusCode === 200) {
+    var movieInfo = JSON.parse(body);
+    console.log("\n==============MOVIE INFO==============\n");
+    console.log("Title: " + movieInfo.Title);
+    console.log("Year: " + movieInfo.Year);
+    console.log("IMDB Rating: " + movieInfo.imdbRating);
+    console.log("Rotten Tomatoes Rating: " + movieInfo.tomatoRating);
+    console.log("Country: " + movieInfo.Country);
+    console.log("Language: " + movieInfo.Language);
+    console.log("Plot: " + movieInfo.Plot);
+    console.log("Actors: " + movieInfo.Actors);
+    // console.log("The movie's rating is: " + JSON.parse(body).year);
+  }
 });
+} //end searchOMDB function 
 
 
-
-  // spotify.search({ type: 'track', query: trackName })
-  // .then(function(response) {
-  //   console.log("\nLet's get some info on the track you requested:\n");
-  //   //console.log("Track name: " + response.tracks.items[0].name);
-  //   console.log("Artist: " + response.tracks.items[0].artists[0].name);
-  //   console.log("Album Name: " + response.tracks.items[0].album.name);
-  //   console.log("Listen to a preview: " + response.tracks.items[0].preview_url);
-  // })
-  // .catch(function(err) {
-  //   console.log(err);
-  // });
-
-}; //end function searchSpotify
-
-
-
+//==================================COMMANDS=========================================
 
 //accept commands from user and fire appropriate function
 switch (command) {
@@ -117,7 +159,7 @@ switch (command) {
     break;
   case "movie-this":
     console.log("user command: movie");
-    movie();
+    getMovieFromUser();
     break;
   case "do-what-it-says":
     console.log("user command: do something");
@@ -125,27 +167,4 @@ switch (command) {
     default:
     console.log("not an option");
 }
-
-
-// function inquirerTweets(handle) {
-//   inquirer
-//   .prompt([
-//     // Here we create a basic text prompt.
-//     {
-//       type: "input",
-//       message: "Which twitter handle would you like to see?",
-//       name: "handle"
-//     }
-//    ])
-
-//   .then(function(inquirerResponse) {
-//     // return twitter handle
-//     if (err){console.log(err);} 
-//     else if (inquirerResponse.handle != null) {
-//     	console.log(inquirerResponse.handle);
-//       return inquirerResponse.handle;
-//     }
-//   });
-  
-// }
 
