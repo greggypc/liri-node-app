@@ -31,6 +31,7 @@ var client = new Twitter(keys.twitter);
 var command = process.argv[2];
 var trackName = "";
 var movieName = "";
+var randomTitleFromUser = "";
 
 
 //==================================TWITTER=========================================
@@ -57,29 +58,30 @@ count: 20
 };  //end function tweets
 
 //==================================SPOTIFY=========================================
-//return track info from Spotify
+//get track title from user
 var getTrackFromUser = function() {
    if (!process.argv[3]) {
      noTrackProvided();
    } else 
      trackProvided();
-}; //end function getSpotify
+}; //end function getTrackFromUser
 
+// no track title provided - user subjected to The Sign
 var noTrackProvided = function() {
      trackName = "The Sign Ace of Base";
      searchSpotify();
-   
 }; //end function noTrackProvided
 
+// track title provided - format to proper query format and call searchSpotify
 var trackProvided = function() {
     for (var i = 3; i < process.argv.length; i++){
-    trackName += " " + process.argv[i];
+    trackName += "+" + process.argv[i];
     }
   searchSpotify();
 }; //end function trackProvided
 
+// give trackName to Spotify and if no error, format response to console
 var searchSpotify = function() {
-  //console.log(trackName + "from search spotify");
 spotify.search({ type: 'track', query: trackName }, function(err, data) {
   if (err) {
     return console.log('Error occurred: ' + err);
@@ -91,43 +93,38 @@ spotify.search({ type: 'track', query: trackName }, function(err, data) {
     console.log("Listen to a preview: " + data.tracks.items[0].preview_url);
     return;
 }); 
-}; //end function noTrackProvided
+}; //end function searchSpotify
 
 //==================================OMDB=========================================
 
+//get movie title from user
 var getMovieFromUser = function() {
   if (!process.argv[3]) {
      noMovieProvided();
    } else 
      movieProvided();
-};
+}; //end function getMovieFromUser
 
+// no movie title provided - gift user with Mr. Nobody
 var noMovieProvided = function() {
      movieName = "Mr. Nobody";
      searchOMDB();
-}; //end function noTrackProvided
+}; //end function noMovieProvided
 
+// track title provided - format to proper query format and call searchOMDB
 var movieProvided = function() {
     for (var i = 3; i < process.argv.length; i++){
-    trackName += " " + process.argv[i];
+    movieName += " " + process.argv[i];
     }
   searchOMDB();
-}; //end function trackProvided
+}; //end function movieProvided
 
-
+// give movieName to OMDB and if no error, format response to console
 var searchOMDB = function() {
-  // Grab, assemble and store movie name
-  for (var i = 3; i < process.argv.length; i++){
-  movieName += " " + process.argv[i];
-}
-//console.log(movieName.trim());
-
-// Then run a request to the OMDB API with the movie specified
 var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
 
 request(queryUrl, function(error, response, body) {
 
-  // If the request is successful (i.e. if the response status code is 200)
   if (!error && response.statusCode === 200) {
     var movieInfo = JSON.parse(body);
     console.log("\n==============MOVIE INFO==============\n");
@@ -139,11 +136,30 @@ request(queryUrl, function(error, response, body) {
     console.log("Language: " + movieInfo.Language);
     console.log("Plot: " + movieInfo.Plot);
     console.log("Actors: " + movieInfo.Actors);
-    // console.log("The movie's rating is: " + JSON.parse(body).year);
-  }
+    }
 });
 } //end searchOMDB function 
 
+//==================================WHAT IT SAYS=========================================
+
+var doSomethingFromTxtFile = function() {
+fs.readFile("./random.txt", "utf8", function(error, data) {
+
+  // If error log to the console.
+  if (error) {
+    return console.log(error);
+  }
+
+  // Then split it by commas (to make it more readable)
+  var randomFromFile = data.split(",");
+
+   //random title is index[1]
+  trackName = randomFromFile[1];
+
+  searchSpotify();
+
+});
+}; //end function doSomethingFromTxtFile
 
 //==================================COMMANDS=========================================
 
@@ -163,7 +179,7 @@ switch (command) {
     break;
   case "do-what-it-says":
     console.log("user command: do something");
-    doSomething();
+    doSomethingFromTxtFile();
     default:
     console.log("not an option");
 }
