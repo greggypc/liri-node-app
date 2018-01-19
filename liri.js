@@ -1,4 +1,4 @@
-
+//Hello Liri
 
 //==================================REQUIRES & VARIABLES=========================================
 //read and set any environment variables with the dotenv package
@@ -40,7 +40,7 @@ var getTweets = function() {
 
 // set parameters for twitter GET
 var params = {
-screen_name: "greggypc",
+screen_name: "TheDailyShow",
 count: 20
 };
 
@@ -48,9 +48,10 @@ count: 20
         // If the request was successful...
         if (!error && response.statusCode === 200) {
            for (var singleTweet of tweets) {
-             console.log("==============TWEET==============\n");
-             console.log(singleTweet.text + "\n=== POSTED " + singleTweet.created_at + " ===\n");
-            }        
+             var tweetsToFile = "\n" + singleTweet.text + "\n=== POSTED " + singleTweet.created_at + " ===";
+             fs.appendFile("log.txt", tweetsToFile);
+             console.log("==============TWEET==============" + tweetsToFile);
+             }        
         } else {
       console.log(error);
     }
@@ -86,11 +87,13 @@ spotify.search({ type: 'track', query: trackName }, function(err, data) {
   if (err) {
     return console.log('Error occurred: ' + err);
   }
-    console.log("\n==============TRACK INFO==============\n");
-    console.log("Track name: " + data.tracks.items[0].name);
-    console.log("Artist: " + data.tracks.items[0].artists[0].name);
-    console.log("Album Name: " + data.tracks.items[0].album.name);
-    console.log("Listen to a preview: " + data.tracks.items[0].preview_url);
+    var spotifyToFile = "\n==============TRACK INFO==============\n"
+    + "Track name: " + data.tracks.items[0].name + "\n"
+    + "Artist: " + data.tracks.items[0].artists[0].name + "\n"
+    + "Album Name: " + data.tracks.items[0].album.name + "\n"
+    + "Listen to a preview: " + data.tracks.items[0].preview_url;
+    fs.appendFile("log.txt", spotifyToFile);
+    console.log(spotifyToFile);
     return;
 }); 
 }; //end function searchSpotify
@@ -127,15 +130,17 @@ request(queryUrl, function(error, response, body) {
 
   if (!error && response.statusCode === 200) {
     var movieInfo = JSON.parse(body);
-    console.log("\n==============MOVIE INFO==============\n");
-    console.log("Title: " + movieInfo.Title);
-    console.log("Year: " + movieInfo.Year);
-    console.log("IMDB Rating: " + movieInfo.imdbRating);
-    console.log("Rotten Tomatoes Rating: " + movieInfo.tomatoRating);
-    console.log("Country: " + movieInfo.Country);
-    console.log("Language: " + movieInfo.Language);
-    console.log("Plot: " + movieInfo.Plot);
-    console.log("Actors: " + movieInfo.Actors);
+    var omdbToFile = "\n==============MOVIE INFO==============\n"
+    + "Title: " + movieInfo.Title + "\n"
+    + "Year: " + movieInfo.Year + "\n"
+    + "IMDB Rating: " + movieInfo.imdbRating + "\n"
+    + "Rotten Tomatoes Rating: " + movieInfo.tomatoRating + "\n"
+    + "Country: " + movieInfo.Country + "\n"
+    + "Language: " + movieInfo.Language + "\n"
+    + "Plot: " + movieInfo.Plot + "\n"
+    + "Actors: " + movieInfo.Actors;
+    fs.appendFile("log.txt", omdbToFile);
+    console.log(omdbToFile);
     }
 });
 } //end searchOMDB function 
@@ -150,10 +155,10 @@ fs.readFile("./random.txt", "utf8", function(error, data) {
     return console.log(error);
   }
 
-  // Then split it by commas (to make it more readable)
+  // make more readable
   var randomFromFile = data.split(",");
 
-   //random title is index[1]
+  //random title is index[1]
   trackName = randomFromFile[1];
 
   searchSpotify();
@@ -166,21 +171,22 @@ fs.readFile("./random.txt", "utf8", function(error, data) {
 //accept commands from user and fire appropriate function
 switch (command) {
   case "my-tweets":
-    console.log("user command: my-tweets");
+    fs.appendFile("log.txt", "\nCommand = my-tweets\n");
     getTweets();
     break;
   case "spotify-this-song":
-    console.log("user command: spotify");
+    fs.appendFile("log.txt", "\nCommand = spotify-this-song\n");
     getTrackFromUser();
     break;
   case "movie-this":
-    console.log("user command: movie");
+    fs.appendFile("log.txt", "\nCommand = movie-this\n");
     getMovieFromUser();
     break;
   case "do-what-it-says":
-    console.log("user command: do something");
+    fs.appendFile("log.txt", "\nCommand = do-what-it-says\n");
     doSomethingFromTxtFile();
-    default:
+    break;
+  default:
+    fs.appendFile("log.txt", "\nCommand is not an option\n");
     console.log("not an option");
 }
-

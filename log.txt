@@ -1,0 +1,26 @@
+﻿
+Command = spotify-this-song
+
+==============TRACK INFO==============
+Track name: Billie Jean
+Artist: Michael Jackson
+Album Name: Thriller 25 Super Deluxe Edition
+Listen to a preview: https://p.scdn.co/mp3-preview/4eb779428d40d579f14d12a9daf98fc66c7d0be4?cid=f63b3650497b4d9caf9e69b5f8b5b16b
+Command = movie-this
+
+==============MOVIE INFO==============
+Title: In the Jaws of Life
+Year: 1984
+IMDB Rating: 7.7
+Rotten Tomatoes Rating: undefined
+Country: Yugoslavia
+Language: Serbo-Croatian
+Plot: This movie, based in part on the popular novel, tells two tales about modern women. One is Stefica Cvek, average and lonely girl who is desperately trying to find the man of her dreams. The...
+Actors: Gorica Popovic, Vitomira Loncar, Bogdan Diklic, Miodrag Krivokapic
+Command = do-what-it-says
+
+==============TRACK INFO==============
+Track name: I Want It That Way
+Artist: Backstreet Boys
+Album Name: The Hits--Chapter One
+Listen to a preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f63b3650497b4d9caf9e69b5f8b5b16b
