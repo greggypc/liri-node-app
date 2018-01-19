@@ -91,7 +91,7 @@ spotify.search({ type: 'track', query: trackName }, function(err, data) {
     + "Track name: " + data.tracks.items[0].name + "\n"
     + "Artist: " + data.tracks.items[0].artists[0].name + "\n"
     + "Album Name: " + data.tracks.items[0].album.name + "\n"
-    + "Listen to a preview: " + data.tracks.items[0].preview_url;
+    + "Listen to a preview: " + data.tracks.items[0].preview_url + "\n";
     fs.appendFile("log.txt", spotifyToFile);
     console.log(spotifyToFile);
     return;
@@ -138,7 +138,7 @@ request(queryUrl, function(error, response, body) {
     + "Country: " + movieInfo.Country + "\n"
     + "Language: " + movieInfo.Language + "\n"
     + "Plot: " + movieInfo.Plot + "\n"
-    + "Actors: " + movieInfo.Actors;
+    + "Actors: " + movieInfo.Actors + "\n";
     fs.appendFile("log.txt", omdbToFile);
     console.log(omdbToFile);
     }
@@ -187,6 +187,7 @@ switch (command) {
     doSomethingFromTxtFile();
     break;
   default:
-    fs.appendFile("log.txt", "\nCommand is not an option\n");
-    console.log("not an option");
+    var err = "That command is not an option.\nPlease try: \n'my-tweets'\n'spotify-this-song'\n'movie-this'\n'do-what-it-says'";
+    fs.appendFile("log.txt", err);
+    console.log(err);
 }

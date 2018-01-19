@@ -1,22 +1,4 @@
 ﻿
-Command = spotify-this-song
-
-==============TRACK INFO==============
-Track name: Billie Jean
-Artist: Michael Jackson
-Album Name: Thriller 25 Super Deluxe Edition
-Listen to a preview: https://p.scdn.co/mp3-preview/4eb779428d40d579f14d12a9daf98fc66c7d0be4?cid=f63b3650497b4d9caf9e69b5f8b5b16b
-Command = movie-this
-
-==============MOVIE INFO==============
-Title: In the Jaws of Life
-Year: 1984
-IMDB Rating: 7.7
-Rotten Tomatoes Rating: undefined
-Country: Yugoslavia
-Language: Serbo-Croatian
-Plot: This movie, based in part on the popular novel, tells two tales about modern women. One is Stefica Cvek, average and lonely girl who is desperately trying to find the man of her dreams. The...
-Actors: Gorica Popovic, Vitomira Loncar, Bogdan Diklic, Miodrag Krivokapic
 Command = do-what-it-says
 
 ==============TRACK INFO==============
@@ -24,3 +6,86 @@ Track name: I Want It That Way
 Artist: Backstreet Boys
 Album Name: The Hits--Chapter One
 Listen to a preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f63b3650497b4d9caf9e69b5f8b5b16b
+
+Command = movie-this
+
+==============MOVIE INFO==============
+Title: Air Jaws II: Even Higher
+Year: 2002
+IMDB Rating: 8.2
+Rotten Tomatoes Rating: undefined
+Country: USA
+Language: English
+Plot: Do great white sharks fly through the air only in one secluded bay in South Africa, or do they roam the world's oceans waiting for just the right opportunity to go airborne? Follow the ...
+Actors: N/A
+
+Command = spotify-this-song
+
+==============TRACK INFO==============
+Track name: Plainclothes Man
+Artist: Heatmiser
+Album Name: Mic City Sons
+Listen to a preview: null
+
+Command = spotify-this-song
+
+==============TRACK INFO==============
+Track name: Walk On Water
+Artist: Thirty Seconds To Mars
+Album Name: Walk On Water
+Listen to a preview: null
+
+Command = my-tweets
+
+Tonight at 11/10c, Trevor welcomes @rickygervais! https://t.co/BXpqThyeTB
+=== POSTED Fri Jan 19 02:45:02 +0000 2018 ===
+Tonight at 11/10c, when you make immigration reform the centerpiece of your entire campaign, you should probably kn… https://t.co/wnQWtpEH8F
+=== POSTED Fri Jan 19 02:00:03 +0000 2018 ===
+7/ We could use your help, guys. Please weigh in --
+@sirpatstew @vindiesel @therock @dalailama @jeffbezos… https://t.co/WMZU74Axg6
+=== POSTED Thu Jan 18 21:16:15 +0000 2018 ===
+6/ Again, if anyone has an explanation, please alert us or the proper authorities. #Baldghazi
+=== POSTED Thu Jan 18 21:16:15 +0000 2018 ===
+.@ricky_martin discusses how hard it was to come out. Full interview:https://t.co/oAvdlxqKDK https://t.co/xa8CFilbcu
+=== POSTED Thu Jan 18 23:13:11 +0000 2018 ===
+5/ Was he going to make fun of the guy, but halfway through he realized, "Oh shit, I can't do that," and then tried… https://t.co/EhGLXgMvvj
+=== POSTED Thu Jan 18 21:16:15 +0000 2018 ===
+3/ It's like Trump went up to a guy with no arms and said, "If I had this guy's arms, I would have been president y… https://t.co/6JcaDH5mgU
+=== POSTED Thu Jan 18 21:16:14 +0000 2018 ===
+4/ Is Trump trying to gaslight that guy into thinking he has hair?
+=== POSTED Thu Jan 18 21:16:14 +0000 2018 ===
+RT @standup: Please welcome the new host of #ThisIsNotHappening: @roywoodjr. https://t.co/FjKL4CB5on
+=== POSTED Thu Jan 18 21:24:46 +0000 2018 ===
+1/ The thing is, being bald doesn't typically help politicians. How many presidents have been fully bald? None! So… https://t.co/ObZtnkH796
+=== POSTED Thu Jan 18 21:16:13 +0000 2018 ===
+(THREAD) Here's a clip of President Trump telling a bald factory worker, "If I had a head of hair like that, I woul… https://t.co/zNSiGkuooy
+=== POSTED Thu Jan 18 21:16:13 +0000 2018 ===
+2/ Is it because being bald is still better than having Trump's hair? Is that what he meant?
+=== POSTED Thu Jan 18 21:16:14 +0000 2018 ===
+Anthony @Bourdain explains why he tweeted a response to Trump's "shithole countries" comment. Extended interview:… https://t.co/1JM3IiphOv
+=== POSTED Thu Jan 18 17:17:26 +0000 2018 ===
+ICYMI: Trevor on Nielsen’s “shithole” dodge and Booker’s response. https://t.co/cucVezlU6V
+=== POSTED Thu Jan 18 14:26:26 +0000 2018 ===
+Cory Booker calls out the DHS secretary, porn star Stormy Daniels details her affair with Trump, and @Bourdain chat… https://t.co/K02IyWnOmc
+=== POSTED Thu Jan 18 13:00:01 +0000 2018 ===
+RT @TheDailyShow: Sen. @CoryBooker and @dulcesloan star in the latest episode of “All My Congressmen.” https://t.co/VxY3hGxn4i
+=== POSTED Thu Jan 18 13:37:41 +0000 2018 ===
+Homeland Security Secretary Kirstjen Nielson makes the "shithole" meeting sound like a rap battle. Full piece:… https://t.co/mUo9zfcz4L
+=== POSTED Thu Jan 18 19:53:33 +0000 2018 ===
+Homeland Security Secretary Kirstjen Nielsen is vague about Trump saying "shithole," and Sen. Cory Booker claps bac… https://t.co/P81P37EKT0
+=== POSTED Thu Jan 18 04:30:04 +0000 2018 ===
+Sen. @CoryBooker and @dulcesloan star in the latest episode of “All My Congressmen.” https://t.co/VxY3hGxn4i
+=== POSTED Thu Jan 18 04:10:02 +0000 2018 ===
+Donald Trump is just a racist Groot. Full piece: https://t.co/KZWIbyLCR1 https://t.co/78FagIDcL2
+=== POSTED Thu Jan 18 15:57:14 +0000 2018 ===
+Command is not an option
+
+Command is not an option
+
+Command is not an option
+That command is not an option.
+ Please try: 
+'my-tweets'
+'spotify-this-song'
+'movie-this'
+'do-what-it-says'
