@@ -88,4 +88,559 @@ That command is not an option.
 'my-tweets'
 'spotify-this-song'
 'movie-this'
+'do-what-it-says'That command is not an option.
+Please try: 
+'my-tweets'
+'spotify-this-song'
+'movie-this'
 'do-what-it-says'
+Command = my-tweets
+
+Tonight at 11/10c, conspiracy theorists have a field day after learning two FBI officials in the Russia investigati… https://t.co/vqWvjyWmzt
+=== POSTED Fri Jan 26 02:00:05 +0000 2018 ===
+America can rig its elections all by itself thank you very much.
+
+Full piece: https://t.co/OhYpqY5Bjn https://t.co/UUUIBsNngM
+=== POSTED Thu Jan 25 21:04:11 +0000 2018 ===
+RT @PKSubban1: Awesome experience @TheDailyShow yesterday!! Thanks for having me @Trevornoah ☝🏿☝🏿 #PKApproved https://t.co/rLubPZuJvl
+=== POSTED Thu Jan 25 20:16:03 +0000 2018 ===
+Slay https://t.co/SLxZ0WTq2n
+=== POSTED Thu Jan 25 22:12:11 +0000 2018 ===
+We've obtained EXCLUSIVE AUDIO of President Trump on Marine One arriving in Davos, Switzerland. #Davos2018 https://t.co/3r6jaqMk7G
+=== POSTED Thu Jan 25 18:39:56 +0000 2018 ===
+RT @TheOpposition: Sharia law or Shawarma law? Kobi Libii pulls out all the stops to liberate the citizens of Dearborn, MI from Islamic ext…
+=== POSTED Thu Jan 25 17:30:13 +0000 2018 ===
+"It's all about building bridges." - NHL Defenseman @PKSubban1 on his Blueline Buddies program, which pairs underpr… https://t.co/vKeTfBsp38
+=== POSTED Thu Jan 25 17:23:27 +0000 2018 ===
+TONIGHT: Trevor welcomes Planned Parenthood President @cecilerichards! https://t.co/x7Bnba1GH2
+=== POSTED Thu Jan 25 16:05:00 +0000 2018 ===
+Move over, Russia. America can rig its own elections: https://t.co/OhYpqXNZUN https://t.co/ZtVtN6eoRQ
+=== POSTED Thu Jan 25 14:56:21 +0000 2018 ===
+Trevor compares gerrymandering to Russia's election meddling, @dulcesloan and @michaelkosta learn about U.S.-Mexico… https://t.co/pwkRTEcMtl
+=== POSTED Thu Jan 25 13:00:01 +0000 2018 ===
+"Gerrymandering is way bigger than Russia. Because while Russia is sending a bunch of misleading memes, legislators… https://t.co/klEgnbDrp7
+=== POSTED Thu Jan 25 04:30:00 +0000 2018 ===
+Tonight! Trevor welcomes Nashville Predators defenseman @PKSubban1! https://t.co/VkCRxW07NF
+=== POSTED Thu Jan 25 03:30:02 +0000 2018 ===
+Backstage with @PKSubban1! Tune in tonight at 11/10c. https://t.co/L0DhJx7ZAh
+=== POSTED Thu Jan 25 03:00:02 +0000 2018 ===
+RT @dulcesloan: I'm on @TheDailyShow again tonight with @michaelkosta! We went to Mexico to see Trump's 8 prototypes walls. #thedailyshow
+=== POSTED Thu Jan 25 02:41:22 +0000 2018 ===
+Tonight at 11/10c, let’s talk about gerrymandering and the districts that double as Rorschach tests. https://t.co/LP9U8mTr3n
+=== POSTED Thu Jan 25 02:00:04 +0000 2018 ===
+RT @PKSubban1: Here we go!! Make sure you tune in tonight to #TheDailyShow with @Trevornoah ... this should be fun ☝🏿😂 https://t.co/N3eoltO…
+=== POSTED Thu Jan 25 00:50:50 +0000 2018 ===
+RT @PredsNHL: He’s arrived. 
+
+Catch @PKSubban1 on @TheDailyShow tonight at 10pm CT. #Preds https://t.co/xR2A8JzNbE
+=== POSTED Thu Jan 25 00:09:50 +0000 2018 ===
+When Trump says he’ll testify under oath but also says he’ll listen to his lawyers https://t.co/fikOEdVyOi
+=== POSTED Wed Jan 24 23:16:29 +0000 2018 ===
+What’s next for Dreamers following the deal to end the government shutdown? Full piece: https://t.co/1aXuWzPiKZ https://t.co/KI6vHMrCN9
+=== POSTED Wed Jan 24 21:42:45 +0000 2018 ===
+RT @JasonReynolds83: Here’s the clip from last night’s interview. Surreal. https://t.co/qih7sS3BAy
+=== POSTED Wed Jan 24 21:40:50 +0000 2018 ===
+Command = my-tweets
+
+Tonight at 11/10c, conspiracy theorists have a field day after learning two FBI officials in the Russia investigati… https://t.co/vqWvjyWmzt
+=== POSTED Fri Jan 26 02:00:05 +0000 2018 ===
+RT @PKSubban1: Awesome experience @TheDailyShow yesterday!! Thanks for having me @Trevornoah ☝🏿☝🏿 #PKApproved https://t.co/rLubPZuJvl
+=== POSTED Thu Jan 25 20:16:03 +0000 2018 ===
+We've obtained EXCLUSIVE AUDIO of President Trump on Marine One arriving in Davos, Switzerland. #Davos2018 https://t.co/3r6jaqMk7G
+=== POSTED Thu Jan 25 18:39:56 +0000 2018 ===
+RT @TheOpposition: Sharia law or Shawarma law? Kobi Libii pulls out all the stops to liberate the citizens of Dearborn, MI from Islamic ext…
+=== POSTED Thu Jan 25 17:30:13 +0000 2018 ===
+Slay https://t.co/SLxZ0WTq2n
+=== POSTED Thu Jan 25 22:12:11 +0000 2018 ===
+"It's all about building bridges." - NHL Defenseman @PKSubban1 on his Blueline Buddies program, which pairs underpr… https://t.co/vKeTfBsp38
+=== POSTED Thu Jan 25 17:23:27 +0000 2018 ===
+TONIGHT: Trevor welcomes Planned Parenthood President @cecilerichards! https://t.co/x7Bnba1GH2
+=== POSTED Thu Jan 25 16:05:00 +0000 2018 ===
+America can rig its elections all by itself thank you very much.
+
+Full piece: https://t.co/OhYpqY5Bjn https://t.co/UUUIBsNngM
+=== POSTED Thu Jan 25 21:04:11 +0000 2018 ===
+Trevor compares gerrymandering to Russia's election meddling, @dulcesloan and @michaelkosta learn about U.S.-Mexico… https://t.co/pwkRTEcMtl
+=== POSTED Thu Jan 25 13:00:01 +0000 2018 ===
+Move over, Russia. America can rig its own elections: https://t.co/OhYpqXNZUN https://t.co/ZtVtN6eoRQ
+=== POSTED Thu Jan 25 14:56:21 +0000 2018 ===
+"Gerrymandering is way bigger than Russia. Because while Russia is sending a bunch of misleading memes, legislators… https://t.co/klEgnbDrp7
+=== POSTED Thu Jan 25 04:30:00 +0000 2018 ===
+Backstage with @PKSubban1! Tune in tonight at 11/10c. https://t.co/L0DhJx7ZAh
+=== POSTED Thu Jan 25 03:00:02 +0000 2018 ===
+Tonight! Trevor welcomes Nashville Predators defenseman @PKSubban1! https://t.co/VkCRxW07NF
+=== POSTED Thu Jan 25 03:30:02 +0000 2018 ===
+RT @dulcesloan: I'm on @TheDailyShow again tonight with @michaelkosta! We went to Mexico to see Trump's 8 prototypes walls. #thedailyshow
+=== POSTED Thu Jan 25 02:41:22 +0000 2018 ===
+Tonight at 11/10c, let’s talk about gerrymandering and the districts that double as Rorschach tests. https://t.co/LP9U8mTr3n
+=== POSTED Thu Jan 25 02:00:04 +0000 2018 ===
+RT @PKSubban1: Here we go!! Make sure you tune in tonight to #TheDailyShow with @Trevornoah ... this should be fun ☝🏿😂 https://t.co/N3eoltO…
+=== POSTED Thu Jan 25 00:50:50 +0000 2018 ===
+When Trump says he’ll testify under oath but also says he’ll listen to his lawyers https://t.co/fikOEdVyOi
+=== POSTED Wed Jan 24 23:16:29 +0000 2018 ===
+RT @PredsNHL: He’s arrived. 
+
+Catch @PKSubban1 on @TheDailyShow tonight at 10pm CT. #Preds https://t.co/xR2A8JzNbE
+=== POSTED Thu Jan 25 00:09:50 +0000 2018 ===
+What’s next for Dreamers following the deal to end the government shutdown? Full piece: https://t.co/1aXuWzPiKZ https://t.co/KI6vHMrCN9
+=== POSTED Wed Jan 24 21:42:45 +0000 2018 ===
+RT @JasonReynolds83: Here’s the clip from last night’s interview. Surreal. https://t.co/qih7sS3BAy
+=== POSTED Wed Jan 24 21:40:50 +0000 2018 ===
+Command = spotify-this-song
+
+==============TRACK INFO==============
+Track name: Black Dog
+Artist: Led Zeppelin
+Album Name: Led Zeppelin IV (Deluxe Edition)
+Listen to a preview: https://p.scdn.co/mp3-preview/9b76619fd9d563a48d38cc90ca00c3008327b52e?cid=f63b3650497b4d9caf9e69b5f8b5b16b
+
+Command = movie-this
+
+==============MOVIE INFO==============
+Title: Cream: Strange Brew
+Year: 1991
+IMDB Rating: 7.2
+Rotten Tomatoes Rating: undefined
+Country: USA
+Language: English
+Plot: N/A
+Actors: Ginger Baker, Jack Bruce, Eric Clapton, Jimi Hendrix
+
+Command = do-what-it-says
+
+==============TRACK INFO==============
+Track name: I Want It That Way
+Artist: Backstreet Boys
+Album Name: The Hits--Chapter One
+Listen to a preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f63b3650497b4d9caf9e69b5f8b5b16b
+That command is not an option.
+Please try: 
+'my-tweets'
+'spotify-this-song'
+'movie-this'
+'do-what-it-says'
+Command = my-tweets
+
+Trevor applauds the Parkland survivors for refusing to take no as an answer. #BetweenTheScenes https://t.co/LdK9IyzGqA
+=== POSTED Sat Feb 24 00:00:02 +0000 2018 ===
+.@Lupita_Nyongo describes the special world of "Black Panther."
+
+►Extended interview: https://t.co/I1ZWPR7Fvr https://t.co/w7BkgYMqWD
+=== POSTED Fri Feb 23 22:00:02 +0000 2018 ===
+Trump proposes bonuses for teachers if they’re willing to bust caps. https://t.co/aPu0xwhojz https://t.co/FQ9WcHIKBb
+=== POSTED Fri Feb 23 19:27:33 +0000 2018 ===
+WERK https://t.co/B5CxkhvpFQ
+=== POSTED Fri Feb 23 18:02:32 +0000 2018 ===
+.@Lupita_Nyongo on how she got the role of Trevor's mom in the movie adaptation of his book #BornACrime.… https://t.co/JtrqhD5yNM
+=== POSTED Fri Feb 23 17:05:44 +0000 2018 ===
+Justin Trudeau gets a little too woke on his trip to India: https://t.co/IRHEJiEHQx https://t.co/n5nHMICJFs
+=== POSTED Fri Feb 23 15:53:50 +0000 2018 ===
+RT @TheDailyShow: CRISIS ACTOR EXPOSED: Why is @FoxNews paying a fake victim? #TammyMustGo https://t.co/nVjhXAdwMC
+=== POSTED Fri Feb 23 13:57:23 +0000 2018 ===
+RT @TheDailyShow: "These kids held Rubio's feet to the fire so hard, they got him to do something that most conservatives hate: evolve."
+
+F…
+=== POSTED Fri Feb 23 13:21:39 +0000 2018 ===
+Parkland survivors confront Marco Rubio and President Trump, @roywoodjr celebrates black innovators, and… https://t.co/XN5rqKpIA4
+=== POSTED Fri Feb 23 13:00:00 +0000 2018 ===
+Justin Trudeau makes waves on his trip to India, Parkland survivors confront Marco Rubio and President Trump on gun… https://t.co/h0y6lPiA8G
+=== POSTED Fri Feb 23 11:30:27 +0000 2018 ===
+"These kids held Rubio's feet to the fire so hard, they got him to do something that most conservatives hate: evolv… https://t.co/VplZzTaCJC
+=== POSTED Fri Feb 23 04:30:05 +0000 2018 ===
+.@RoyWoodJr is back with CP Time tonight! https://t.co/izYrSBLhgr
+=== POSTED Fri Feb 23 03:30:03 +0000 2018 ===
+RT @Lupita_Nyongo: Always a pleasure to see my friend (and future #BornACrime son, sort of!) @TrevorNoah at @TheDailyShow. Watch tonight at…
+=== POSTED Fri Feb 23 03:29:55 +0000 2018 ===
+TONIGHT: Trevor welcomes his future movie mom and current "Black Panther" star @Lupita_Nyongo https://t.co/rdCMc0meRO
+=== POSTED Fri Feb 23 02:45:01 +0000 2018 ===
+Tonight at 11/10c, Marco Rubio gets no love in a room full of Parkland survivors and constituents. https://t.co/p8X4vKi9al
+=== POSTED Fri Feb 23 02:00:04 +0000 2018 ===
+Blaming gun violence on video games? Even video games don't let you have more than three guns at a time.… https://t.co/q4fyNIB4Kc
+=== POSTED Fri Feb 23 00:23:29 +0000 2018 ===
+Trevor responds to those outraged by the blackness of "Black Panther." #BetweenTheScenes https://t.co/fsYNnF292y
+=== POSTED Thu Feb 22 21:28:03 +0000 2018 ===
+CRISIS ACTOR EXPOSED: Why is @FoxNews paying a fake victim? #TammyMustGo https://t.co/nVjhXAdwMC
+=== POSTED Thu Feb 22 19:16:49 +0000 2018 ===
+Just so we’re clear. https://t.co/7bFceLqPiG https://t.co/4jqreZ9rxB
+=== POSTED Thu Feb 22 17:37:33 +0000 2018 ===
+"If people weren't allowed to share their opinions unless they'd studied the issue, then Donald Trump would never b… https://t.co/DGi2y2AIts
+=== POSTED Thu Feb 22 15:46:52 +0000 2018 ===That command is not an option.
+Please try: 
+'my-tweets'
+'spotify-this-song'
+'movie-this'
+'do-what-it-says'
+Command = spotify-this-song
+
+==============TRACK INFO==============
+Track name: The Sign
+Artist: Ace of Base
+Album Name: The Sign (US Album) [Remastered]
+Listen to a preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=f63b3650497b4d9caf9e69b5f8b5b16b
+
+Command = spotify-this-song
+
+==============TRACK INFO==============
+Track name: Eye of the Tiger
+Artist: Survivor
+Album Name: Eye Of The Tiger
+Listen to a preview: https://p.scdn.co/mp3-preview/0305e216dd77b09c395724bd2c3506cd1047dad2?cid=f63b3650497b4d9caf9e69b5f8b5b16b
+That command is not an option.
+Please try: 
+'my-tweets'
+'spotify-this-song'
+'movie-this'
+'do-what-it-says'
+Command = spotify-this-song
+
+==============TRACK INFO==============
+Track name: Eye of the Tiger
+Artist: Survivor
+Album Name: Eye Of The Tiger
+Listen to a preview: https://p.scdn.co/mp3-preview/0305e216dd77b09c395724bd2c3506cd1047dad2?cid=f63b3650497b4d9caf9e69b5f8b5b16b
+
+Command = my-tweets
+
+Trevor applauds the Parkland survivors for refusing to take no as an answer. #BetweenTheScenes https://t.co/LdK9IyzGqA
+=== POSTED Sat Feb 24 00:00:02 +0000 2018 ===
+.@Lupita_Nyongo describes the special world of "Black Panther."
+
+►Extended interview: https://t.co/I1ZWPR7Fvr https://t.co/w7BkgYMqWD
+=== POSTED Fri Feb 23 22:00:02 +0000 2018 ===
+Trump proposes bonuses for teachers if they’re willing to bust caps. https://t.co/aPu0xwhojz https://t.co/FQ9WcHIKBb
+=== POSTED Fri Feb 23 19:27:33 +0000 2018 ===
+WERK https://t.co/B5CxkhvpFQ
+=== POSTED Fri Feb 23 18:02:32 +0000 2018 ===
+.@Lupita_Nyongo on how she got the role of Trevor's mom in the movie adaptation of his book #BornACrime.… https://t.co/JtrqhD5yNM
+=== POSTED Fri Feb 23 17:05:44 +0000 2018 ===
+Justin Trudeau gets a little too woke on his trip to India: https://t.co/IRHEJiEHQx https://t.co/n5nHMICJFs
+=== POSTED Fri Feb 23 15:53:50 +0000 2018 ===
+RT @TheDailyShow: CRISIS ACTOR EXPOSED: Why is @FoxNews paying a fake victim? #TammyMustGo https://t.co/nVjhXAdwMC
+=== POSTED Fri Feb 23 13:57:23 +0000 2018 ===
+RT @TheDailyShow: "These kids held Rubio's feet to the fire so hard, they got him to do something that most conservatives hate: evolve."
+
+F…
+=== POSTED Fri Feb 23 13:21:39 +0000 2018 ===
+Parkland survivors confront Marco Rubio and President Trump, @roywoodjr celebrates black innovators, and… https://t.co/XN5rqKpIA4
+=== POSTED Fri Feb 23 13:00:00 +0000 2018 ===
+Justin Trudeau makes waves on his trip to India, Parkland survivors confront Marco Rubio and President Trump on gun… https://t.co/h0y6lPiA8G
+=== POSTED Fri Feb 23 11:30:27 +0000 2018 ===
+"These kids held Rubio's feet to the fire so hard, they got him to do something that most conservatives hate: evolv… https://t.co/VplZzTaCJC
+=== POSTED Fri Feb 23 04:30:05 +0000 2018 ===
+.@RoyWoodJr is back with CP Time tonight! https://t.co/izYrSBLhgr
+=== POSTED Fri Feb 23 03:30:03 +0000 2018 ===
+RT @Lupita_Nyongo: Always a pleasure to see my friend (and future #BornACrime son, sort of!) @TrevorNoah at @TheDailyShow. Watch tonight at…
+=== POSTED Fri Feb 23 03:29:55 +0000 2018 ===
+TONIGHT: Trevor welcomes his future movie mom and current "Black Panther" star @Lupita_Nyongo https://t.co/rdCMc0meRO
+=== POSTED Fri Feb 23 02:45:01 +0000 2018 ===
+Tonight at 11/10c, Marco Rubio gets no love in a room full of Parkland survivors and constituents. https://t.co/p8X4vKi9al
+=== POSTED Fri Feb 23 02:00:04 +0000 2018 ===
+Blaming gun violence on video games? Even video games don't let you have more than three guns at a time.… https://t.co/q4fyNIB4Kc
+=== POSTED Fri Feb 23 00:23:29 +0000 2018 ===
+Trevor responds to those outraged by the blackness of "Black Panther." #BetweenTheScenes https://t.co/fsYNnF292y
+=== POSTED Thu Feb 22 21:28:03 +0000 2018 ===
+CRISIS ACTOR EXPOSED: Why is @FoxNews paying a fake victim? #TammyMustGo https://t.co/nVjhXAdwMC
+=== POSTED Thu Feb 22 19:16:49 +0000 2018 ===
+Just so we’re clear. https://t.co/7bFceLqPiG https://t.co/4jqreZ9rxB
+=== POSTED Thu Feb 22 17:37:33 +0000 2018 ===
+"If people weren't allowed to share their opinions unless they'd studied the issue, then Donald Trump would never b… https://t.co/DGi2y2AIts
+=== POSTED Thu Feb 22 15:46:52 +0000 2018 ===
+Command = my-tweets
+
+Trevor applauds the Parkland survivors for refusing to take no as an answer. #BetweenTheScenes https://t.co/LdK9IyzGqA
+=== POSTED Sat Feb 24 00:00:02 +0000 2018 ===
+.@Lupita_Nyongo describes the special world of "Black Panther."
+
+►Extended interview: https://t.co/I1ZWPR7Fvr https://t.co/w7BkgYMqWD
+=== POSTED Fri Feb 23 22:00:02 +0000 2018 ===
+Trump proposes bonuses for teachers if they’re willing to bust caps. https://t.co/aPu0xwhojz https://t.co/FQ9WcHIKBb
+=== POSTED Fri Feb 23 19:27:33 +0000 2018 ===
+WERK https://t.co/B5CxkhvpFQ
+=== POSTED Fri Feb 23 18:02:32 +0000 2018 ===
+.@Lupita_Nyongo on how she got the role of Trevor's mom in the movie adaptation of his book #BornACrime.… https://t.co/JtrqhD5yNM
+=== POSTED Fri Feb 23 17:05:44 +0000 2018 ===
+Justin Trudeau gets a little too woke on his trip to India: https://t.co/IRHEJiEHQx https://t.co/n5nHMICJFs
+=== POSTED Fri Feb 23 15:53:50 +0000 2018 ===
+RT @TheDailyShow: CRISIS ACTOR EXPOSED: Why is @FoxNews paying a fake victim? #TammyMustGo https://t.co/nVjhXAdwMC
+=== POSTED Fri Feb 23 13:57:23 +0000 2018 ===
+RT @TheDailyShow: "These kids held Rubio's feet to the fire so hard, they got him to do something that most conservatives hate: evolve."
+
+F…
+=== POSTED Fri Feb 23 13:21:39 +0000 2018 ===
+Parkland survivors confront Marco Rubio and President Trump, @roywoodjr celebrates black innovators, and… https://t.co/XN5rqKpIA4
+=== POSTED Fri Feb 23 13:00:00 +0000 2018 ===
+Justin Trudeau makes waves on his trip to India, Parkland survivors confront Marco Rubio and President Trump on gun… https://t.co/h0y6lPiA8G
+=== POSTED Fri Feb 23 11:30:27 +0000 2018 ===
+"These kids held Rubio's feet to the fire so hard, they got him to do something that most conservatives hate: evolv… https://t.co/VplZzTaCJC
+=== POSTED Fri Feb 23 04:30:05 +0000 2018 ===
+.@RoyWoodJr is back with CP Time tonight! https://t.co/izYrSBLhgr
+=== POSTED Fri Feb 23 03:30:03 +0000 2018 ===
+RT @Lupita_Nyongo: Always a pleasure to see my friend (and future #BornACrime son, sort of!) @TrevorNoah at @TheDailyShow. Watch tonight at…
+=== POSTED Fri Feb 23 03:29:55 +0000 2018 ===
+TONIGHT: Trevor welcomes his future movie mom and current "Black Panther" star @Lupita_Nyongo https://t.co/rdCMc0meRO
+=== POSTED Fri Feb 23 02:45:01 +0000 2018 ===
+Tonight at 11/10c, Marco Rubio gets no love in a room full of Parkland survivors and constituents. https://t.co/p8X4vKi9al
+=== POSTED Fri Feb 23 02:00:04 +0000 2018 ===
+Blaming gun violence on video games? Even video games don't let you have more than three guns at a time.… https://t.co/q4fyNIB4Kc
+=== POSTED Fri Feb 23 00:23:29 +0000 2018 ===
+Trevor responds to those outraged by the blackness of "Black Panther." #BetweenTheScenes https://t.co/fsYNnF292y
+=== POSTED Thu Feb 22 21:28:03 +0000 2018 ===
+CRISIS ACTOR EXPOSED: Why is @FoxNews paying a fake victim? #TammyMustGo https://t.co/nVjhXAdwMC
+=== POSTED Thu Feb 22 19:16:49 +0000 2018 ===
+Just so we’re clear. https://t.co/7bFceLqPiG https://t.co/4jqreZ9rxB
+=== POSTED Thu Feb 22 17:37:33 +0000 2018 ===
+"If people weren't allowed to share their opinions unless they'd studied the issue, then Donald Trump would never b… https://t.co/DGi2y2AIts
+=== POSTED Thu Feb 22 15:46:52 +0000 2018 ===
+Command = my-tweets
+
+Trevor applauds the Parkland survivors for refusing to take no as an answer. #BetweenTheScenes https://t.co/LdK9IyzGqA
+=== POSTED Sat Feb 24 00:00:02 +0000 2018 ===
+.@Lupita_Nyongo describes the special world of "Black Panther."
+
+►Extended interview: https://t.co/I1ZWPR7Fvr https://t.co/w7BkgYMqWD
+=== POSTED Fri Feb 23 22:00:02 +0000 2018 ===
+Trump proposes bonuses for teachers if they’re willing to bust caps. https://t.co/aPu0xwhojz https://t.co/FQ9WcHIKBb
+=== POSTED Fri Feb 23 19:27:33 +0000 2018 ===
+WERK https://t.co/B5CxkhvpFQ
+=== POSTED Fri Feb 23 18:02:32 +0000 2018 ===
+.@Lupita_Nyongo on how she got the role of Trevor's mom in the movie adaptation of his book #BornACrime.… https://t.co/JtrqhD5yNM
+=== POSTED Fri Feb 23 17:05:44 +0000 2018 ===
+Justin Trudeau gets a little too woke on his trip to India: https://t.co/IRHEJiEHQx https://t.co/n5nHMICJFs
+=== POSTED Fri Feb 23 15:53:50 +0000 2018 ===
+RT @TheDailyShow: CRISIS ACTOR EXPOSED: Why is @FoxNews paying a fake victim? #TammyMustGo https://t.co/nVjhXAdwMC
+=== POSTED Fri Feb 23 13:57:23 +0000 2018 ===
+RT @TheDailyShow: "These kids held Rubio's feet to the fire so hard, they got him to do something that most conservatives hate: evolve."
+
+F…
+=== POSTED Fri Feb 23 13:21:39 +0000 2018 ===
+Parkland survivors confront Marco Rubio and President Trump, @roywoodjr celebrates black innovators, and… https://t.co/XN5rqKpIA4
+=== POSTED Fri Feb 23 13:00:00 +0000 2018 ===
+Justin Trudeau makes waves on his trip to India, Parkland survivors confront Marco Rubio and President Trump on gun… https://t.co/h0y6lPiA8G
+=== POSTED Fri Feb 23 11:30:27 +0000 2018 ===
+"These kids held Rubio's feet to the fire so hard, they got him to do something that most conservatives hate: evolv… https://t.co/VplZzTaCJC
+=== POSTED Fri Feb 23 04:30:05 +0000 2018 ===
+.@RoyWoodJr is back with CP Time tonight! https://t.co/izYrSBLhgr
+=== POSTED Fri Feb 23 03:30:03 +0000 2018 ===
+RT @Lupita_Nyongo: Always a pleasure to see my friend (and future #BornACrime son, sort of!) @TrevorNoah at @TheDailyShow. Watch tonight at…
+=== POSTED Fri Feb 23 03:29:55 +0000 2018 ===
+TONIGHT: Trevor welcomes his future movie mom and current "Black Panther" star @Lupita_Nyongo https://t.co/rdCMc0meRO
+=== POSTED Fri Feb 23 02:45:01 +0000 2018 ===
+Tonight at 11/10c, Marco Rubio gets no love in a room full of Parkland survivors and constituents. https://t.co/p8X4vKi9al
+=== POSTED Fri Feb 23 02:00:04 +0000 2018 ===
+Blaming gun violence on video games? Even video games don't let you have more than three guns at a time.… https://t.co/q4fyNIB4Kc
+=== POSTED Fri Feb 23 00:23:29 +0000 2018 ===
+Trevor responds to those outraged by the blackness of "Black Panther." #BetweenTheScenes https://t.co/fsYNnF292y
+=== POSTED Thu Feb 22 21:28:03 +0000 2018 ===
+CRISIS ACTOR EXPOSED: Why is @FoxNews paying a fake victim? #TammyMustGo https://t.co/nVjhXAdwMC
+=== POSTED Thu Feb 22 19:16:49 +0000 2018 ===
+Just so we’re clear. https://t.co/7bFceLqPiG https://t.co/4jqreZ9rxB
+=== POSTED Thu Feb 22 17:37:33 +0000 2018 ===
+"If people weren't allowed to share their opinions unless they'd studied the issue, then Donald Trump would never b… https://t.co/DGi2y2AIts
+=== POSTED Thu Feb 22 15:46:52 +0000 2018 ===
+Command = my-tweets
+
+Trevor applauds the Parkland survivors for refusing to take no as an answer. #BetweenTheScenes https://t.co/LdK9IyzGqA
+=== POSTED Sat Feb 24 00:00:02 +0000 2018 ===
+.@Lupita_Nyongo describes the special world of "Black Panther."
+
+►Extended interview: https://t.co/I1ZWPR7Fvr https://t.co/w7BkgYMqWD
+=== POSTED Fri Feb 23 22:00:02 +0000 2018 ===
+Trump proposes bonuses for teachers if they’re willing to bust caps. https://t.co/aPu0xwhojz https://t.co/FQ9WcHIKBb
+=== POSTED Fri Feb 23 19:27:33 +0000 2018 ===
+WERK https://t.co/B5CxkhvpFQ
+=== POSTED Fri Feb 23 18:02:32 +0000 2018 ===
+.@Lupita_Nyongo on how she got the role of Trevor's mom in the movie adaptation of his book #BornACrime.… https://t.co/JtrqhD5yNM
+=== POSTED Fri Feb 23 17:05:44 +0000 2018 ===
+Justin Trudeau gets a little too woke on his trip to India: https://t.co/IRHEJiEHQx https://t.co/n5nHMICJFs
+=== POSTED Fri Feb 23 15:53:50 +0000 2018 ===
+RT @TheDailyShow: CRISIS ACTOR EXPOSED: Why is @FoxNews paying a fake victim? #TammyMustGo https://t.co/nVjhXAdwMC
+=== POSTED Fri Feb 23 13:57:23 +0000 2018 ===
+RT @TheDailyShow: "These kids held Rubio's feet to the fire so hard, they got him to do something that most conservatives hate: evolve."
+
+F…
+=== POSTED Fri Feb 23 13:21:39 +0000 2018 ===
+Parkland survivors confront Marco Rubio and President Trump, @roywoodjr celebrates black innovators, and… https://t.co/XN5rqKpIA4
+=== POSTED Fri Feb 23 13:00:00 +0000 2018 ===
+Justin Trudeau makes waves on his trip to India, Parkland survivors confront Marco Rubio and President Trump on gun… https://t.co/h0y6lPiA8G
+=== POSTED Fri Feb 23 11:30:27 +0000 2018 ===
+"These kids held Rubio's feet to the fire so hard, they got him to do something that most conservatives hate: evolv… https://t.co/VplZzTaCJC
+=== POSTED Fri Feb 23 04:30:05 +0000 2018 ===
+.@RoyWoodJr is back with CP Time tonight! https://t.co/izYrSBLhgr
+=== POSTED Fri Feb 23 03:30:03 +0000 2018 ===
+RT @Lupita_Nyongo: Always a pleasure to see my friend (and future #BornACrime son, sort of!) @TrevorNoah at @TheDailyShow. Watch tonight at…
+=== POSTED Fri Feb 23 03:29:55 +0000 2018 ===
+TONIGHT: Trevor welcomes his future movie mom and current "Black Panther" star @Lupita_Nyongo https://t.co/rdCMc0meRO
+=== POSTED Fri Feb 23 02:45:01 +0000 2018 ===
+Tonight at 11/10c, Marco Rubio gets no love in a room full of Parkland survivors and constituents. https://t.co/p8X4vKi9al
+=== POSTED Fri Feb 23 02:00:04 +0000 2018 ===
+Blaming gun violence on video games? Even video games don't let you have more than three guns at a time.… https://t.co/q4fyNIB4Kc
+=== POSTED Fri Feb 23 00:23:29 +0000 2018 ===
+Trevor responds to those outraged by the blackness of "Black Panther." #BetweenTheScenes https://t.co/fsYNnF292y
+=== POSTED Thu Feb 22 21:28:03 +0000 2018 ===
+CRISIS ACTOR EXPOSED: Why is @FoxNews paying a fake victim? #TammyMustGo https://t.co/nVjhXAdwMC
+=== POSTED Thu Feb 22 19:16:49 +0000 2018 ===
+Just so we’re clear. https://t.co/7bFceLqPiG https://t.co/4jqreZ9rxB
+=== POSTED Thu Feb 22 17:37:33 +0000 2018 ===
+"If people weren't allowed to share their opinions unless they'd studied the issue, then Donald Trump would never b… https://t.co/DGi2y2AIts
+=== POSTED Thu Feb 22 15:46:52 +0000 2018 ===That command is not an option.
+Please try: 
+'my-tweets'
+'spotify-this-song'
+'movie-this'
+'do-what-it-says'
+Command = movie-this
+
+==============MOVIE INFO==============
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: undefined
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Command = my-tweets
+
+Trevor applauds the Parkland survivors for refusing to take no as an answer. #BetweenTheScenes https://t.co/LdK9IyzGqA
+=== POSTED Sat Feb 24 00:00:02 +0000 2018 ===
+.@Lupita_Nyongo describes the special world of "Black Panther."
+
+►Extended interview: https://t.co/I1ZWPR7Fvr https://t.co/w7BkgYMqWD
+=== POSTED Fri Feb 23 22:00:02 +0000 2018 ===
+Trump proposes bonuses for teachers if they’re willing to bust caps. https://t.co/aPu0xwhojz https://t.co/FQ9WcHIKBb
+=== POSTED Fri Feb 23 19:27:33 +0000 2018 ===
+WERK https://t.co/B5CxkhvpFQ
+=== POSTED Fri Feb 23 18:02:32 +0000 2018 ===
+.@Lupita_Nyongo on how she got the role of Trevor's mom in the movie adaptation of his book #BornACrime.… https://t.co/JtrqhD5yNM
+=== POSTED Fri Feb 23 17:05:44 +0000 2018 ===
+Justin Trudeau gets a little too woke on his trip to India: https://t.co/IRHEJiEHQx https://t.co/n5nHMICJFs
+=== POSTED Fri Feb 23 15:53:50 +0000 2018 ===
+RT @TheDailyShow: CRISIS ACTOR EXPOSED: Why is @FoxNews paying a fake victim? #TammyMustGo https://t.co/nVjhXAdwMC
+=== POSTED Fri Feb 23 13:57:23 +0000 2018 ===
+RT @TheDailyShow: "These kids held Rubio's feet to the fire so hard, they got him to do something that most conservatives hate: evolve."
+
+F…
+=== POSTED Fri Feb 23 13:21:39 +0000 2018 ===
+Parkland survivors confront Marco Rubio and President Trump, @roywoodjr celebrates black innovators, and… https://t.co/XN5rqKpIA4
+=== POSTED Fri Feb 23 13:00:00 +0000 2018 ===
+Justin Trudeau makes waves on his trip to India, Parkland survivors confront Marco Rubio and President Trump on gun… https://t.co/h0y6lPiA8G
+=== POSTED Fri Feb 23 11:30:27 +0000 2018 ===
+"These kids held Rubio's feet to the fire so hard, they got him to do something that most conservatives hate: evolv… https://t.co/VplZzTaCJC
+=== POSTED Fri Feb 23 04:30:05 +0000 2018 ===
+.@RoyWoodJr is back with CP Time tonight! https://t.co/izYrSBLhgr
+=== POSTED Fri Feb 23 03:30:03 +0000 2018 ===
+RT @Lupita_Nyongo: Always a pleasure to see my friend (and future #BornACrime son, sort of!) @TrevorNoah at @TheDailyShow. Watch tonight at…
+=== POSTED Fri Feb 23 03:29:55 +0000 2018 ===
+TONIGHT: Trevor welcomes his future movie mom and current "Black Panther" star @Lupita_Nyongo https://t.co/rdCMc0meRO
+=== POSTED Fri Feb 23 02:45:01 +0000 2018 ===
+Tonight at 11/10c, Marco Rubio gets no love in a room full of Parkland survivors and constituents. https://t.co/p8X4vKi9al
+=== POSTED Fri Feb 23 02:00:04 +0000 2018 ===
+Blaming gun violence on video games? Even video games don't let you have more than three guns at a time.… https://t.co/q4fyNIB4Kc
+=== POSTED Fri Feb 23 00:23:29 +0000 2018 ===
+Trevor responds to those outraged by the blackness of "Black Panther." #BetweenTheScenes https://t.co/fsYNnF292y
+=== POSTED Thu Feb 22 21:28:03 +0000 2018 ===
+CRISIS ACTOR EXPOSED: Why is @FoxNews paying a fake victim? #TammyMustGo https://t.co/nVjhXAdwMC
+=== POSTED Thu Feb 22 19:16:49 +0000 2018 ===
+Just so we’re clear. https://t.co/7bFceLqPiG https://t.co/4jqreZ9rxB
+=== POSTED Thu Feb 22 17:37:33 +0000 2018 ===
+"If people weren't allowed to share their opinions unless they'd studied the issue, then Donald Trump would never b… https://t.co/DGi2y2AIts
+=== POSTED Thu Feb 22 15:46:52 +0000 2018 ===That command is not an option.
+Please try: 
+'my-tweets'
+'spotify-this-song'
+'movie-this'
+'do-what-it-says'
+Command = do-what-it-says
+
+==============TRACK INFO==============
+Track name: I Want It That Way
+Artist: Backstreet Boys
+Album Name: The Hits--Chapter One
+Listen to a preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f63b3650497b4d9caf9e69b5f8b5b16b
+
+Command = movie-this
+
+==============MOVIE INFO==============
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: undefined
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Command = movie-this
+
+==============MOVIE INFO==============
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: undefined
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Command = movie-this
+
+==============MOVIE INFO==============
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: undefined
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Command = movie-this
+
+==============MOVIE INFO==============
+Title: Cybil Raven Chronicles
+Year: 2016–
+IMDB Rating: N/A
+Rotten Tomatoes Rating: undefined
+Country: USA
+Language: English
+Plot: Cybil Raven is a Secret Agent, military operative, and former 82nd Airborne paratrooper that combats the global war on terrorism.
+Actors: N/A
+That command is not an option.
+Please try: 
+'my-tweets'
+'spotify-this-song'
+'movie-this'
+'do-what-it-says'That command is not an option.
+Please try: 
+'my-tweets'
+'spotify-this-song'
+'movie-this'
+'do-what-it-says'
+Command = spotify-this-song
+
+==============TRACK INFO==============
+Track name: Eye of the Tiger
+Artist: Survivor
+Album Name: Eye Of The Tiger
+Listen to a preview: https://p.scdn.co/mp3-preview/0305e216dd77b09c395724bd2c3506cd1047dad2?cid=f63b3650497b4d9caf9e69b5f8b5b16b
+
+Command = movie-this
+
+==============MOVIE INFO==============
+Title: Vsetko co mam rad
+Year: 1993
+IMDB Rating: 6.8
+Rotten Tomatoes Rating: undefined
+Country: Slovakia
+Language: Slovak, Czech
+Plot: N/A
+Actors: Juraj Nvota, Gina Bellman, Zdena Studenková, Jirí Menzel
+
+Command = do-what-it-says
+
+==============TRACK INFO==============
+Track name: I Want It That Way
+Artist: Backstreet Boys
+Album Name: The Hits--Chapter One
+Listen to a preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f63b3650497b4d9caf9e69b5f8b5b16b
