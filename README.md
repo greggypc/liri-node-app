@@ -21,4 +21,4 @@ Liri will accept the following commands:
    
   * [OMDB](https://www.omdbapi.com/)
 
-  
+  ![Liri Node gif](/liri.gif)
